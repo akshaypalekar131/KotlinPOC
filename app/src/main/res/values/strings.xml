@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidComponentsDetails</string>
+    <string name="status_charging">Charging</string>
+    <string name="status_full">Full</string>
+    <string name="status_DisCharging">DisCharging</string>
+    <string name="status_not_charging">Not Charging</string>
+    <string name="total_storage">Total Storage</string>
+    <string name="free_storage">Free Storage</string>
+    <string name="used_storage">Used Storage</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="battery_percentage">Battery Percentage</string>
+    <string name="show_products_data">Show Products Data</string>
+</resources>
